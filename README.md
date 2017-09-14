@@ -18,6 +18,7 @@ A callback function that is executed if the request succeeds.
 This is a shorthand Ajax function, which is equivalent to:
 ```javascript
 $.ajax({
+  type: "POST",
   dataType: "json",
   url: url,
   data: data,
