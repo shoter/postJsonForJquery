@@ -1,6 +1,6 @@
 {
   "name": "post-json-for-jquery",
-  "version": "0.9.0",
+  "version": "0.9.3",
   "description": "Equivalent of $.getJson but using POST request.",
   "main": "jquery.postJson.js",
   "scripts": {

@@ -1,7 +1,7 @@
 # jQuery.postJSON()
 **Description**: Load JSON-encoded data from the server using a GET HTTP request.
 
-### jQuery.getJSON( url [, data ] [, success ] )
+### jQuery.postJSON( url [, data ] [, success ] )
 
 **url**  
 Type: String  
