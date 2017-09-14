@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/shoter/postJsonForJquery.git"
   },
+  "peerDependencies": {
+    "jquery": ">=1.6.0"
+  },
   "keywords": [
     "jquery",
     "post",
