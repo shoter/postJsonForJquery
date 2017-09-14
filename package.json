@@ -1,0 +1,26 @@
+{
+  "name": "post-json-for-jquery",
+  "version": "0.9.0",
+  "description": "Equivalent of $.getJson but using POST request.",
+  "main": "jquery.postJson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shoter/postJsonForJquery.git"
+  },
+  "keywords": [
+    "jquery",
+    "post",
+    "json",
+    "request",
+    "ajax"
+  ],
+  "author": "Shoter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shoter/postJsonForJquery/issues"
+  },
+  "homepage": "https://github.com/shoter/postJsonForJquery#readme"
+}
