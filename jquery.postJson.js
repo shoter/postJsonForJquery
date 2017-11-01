@@ -9,13 +9,7 @@
 (function ($) {
 
     $.postJSON = (url, data, success) => {
-        $.ajax({
-            type: "POST",
-            dataType: "json",
-            url: url,
-            data: data,
-            success: success
-        });
+		return $.post(url, data, success, "json");
     }
 
 }(jQuery));
